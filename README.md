@@ -1,1 +1,2 @@
-# asts-frontend
+Start the server -
+`npm start`
