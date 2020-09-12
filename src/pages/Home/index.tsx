@@ -5,7 +5,7 @@ import { AppState } from "../../store";
 import { Todo } from "../../types";
 import TodoList from "../../containers/TodoList";
 import CreateTodo from "../../containers/CreateTodo";
-import { Grid, GridColumn } from "semantic-ui-react";
+import { Grid } from "semantic-ui-react";
 
 type HomeProps = {
   data: Todo[];
